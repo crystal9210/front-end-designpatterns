@@ -1,3 +1,4 @@
+// ターゲットオブジェクトとのやり取りをインターセプトし制御する
 const person = {
   name: "John Doe",
   age: 42,
